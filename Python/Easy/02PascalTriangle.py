@@ -1,5 +1,5 @@
 # numRows -> Provided in leetcode
-# numRows = 5
+numRows = 5
 
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:

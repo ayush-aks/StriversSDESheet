@@ -1,5 +1,5 @@
 # matrix,n,m -> Provided in CodingNinjas/studio
-# matrix = [[1,1,1],[1,0,1],[1,1,1]]
+matrix = [[1,1,1],[1,0,1],[1,1,1]]
 def zeroMatrix(matrix, n, m):
     # Write your code here.
     l_c = []
