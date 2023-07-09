@@ -1,6 +1,6 @@
 # matrix,n,m -> Provided in CodingNinjas/studio
 matrix = [[1,1,1],[1,0,1],[1,1,1]]
-def zeroMatrix(matrix, n, m):
+def zeroMatrix(matrix):
     # Write your code here.
     l_c = []
 
@@ -17,3 +17,5 @@ def zeroMatrix(matrix, n, m):
             for _ in l_c:
                 matrix[i][_] = 0
     return matrix
+
+print(zeroMatrix(matrix))
