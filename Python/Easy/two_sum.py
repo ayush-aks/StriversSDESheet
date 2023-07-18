@@ -1,5 +1,5 @@
 # returns index of array/list that add up to target
-# Approach used -> HashMap
+# Approach used -> HashMap (Dict)
 nums = [2,1,3,5]
 target = 4
 
